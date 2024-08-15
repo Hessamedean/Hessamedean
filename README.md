@@ -50,10 +50,10 @@
 <div align=center>
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Hessamedean&theme=tokyonight&exclude_days=Fri&background=7E0000&stroke=FFD700&ring=FFD700&fire=FFD700&currStreakNum=FFD700&sideNums=FFD700&currStreakLabel=FFD700&sideLabels=FFD700&dates=FFD700&excludeDaysLabel=BE6325" alt="GitHub Streak" /></a>
  <br/>
-   <img width=500 src="https://github-readme-stats.vercel.app/api?username=Hessamedean&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+   <img width=500 src="https://github-readme-stats.vercel.app/api?username=Hessamedean&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
  <br/>
-  <img width=500 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hessamedean&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=500 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hessamedean&hide=HTML&langs_count=8&layout=compact&theme=tokyonight&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 <br/><br/>
