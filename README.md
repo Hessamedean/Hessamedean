@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Hessamedean.visitor-badge&left_text=My%20Page%20Views"/>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Hessamedean.Hessamedean&left_text=My%20Page%20Views"/>
 
 <h1 align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Oswald&size=35&duration=3500&pause=500&color=2A92C0&background=7F52EF00&center=true&width=500&height=70&lines=Hi+There+%F0%9F%91%8B;I'm+Hessamedean;A+Smart+Contract+Developer;Welcome+To+My+GitHub" alt="Typing SVG" /></a>
