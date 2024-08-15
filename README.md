@@ -1,6 +1,5 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Hessamedean.Hessamedean"/>
 
-
 <h1 align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Oswald&size=35&duration=3500&pause=500&color=2A92C0&background=7F52EF00&center=true&width=500&height=70&lines=Hi+There+%F0%9F%91%8B;I'm+Hessamedean;A+Smart+Contract+Developer;Welcome+To+My+GitHub" alt="Typing SVG" /></a>
 </h1>
@@ -45,10 +44,19 @@
 
 <hr/>
 
+<h2 align="center">📝 About Me 📝</h2>
+<br/>
+<div align="center">
+    Hi there! I'm Hessamedean, a junior smart contract developer with a passion for blockchain technology. I'm currently deep diving into Solidity, aiming to create secure, upgradeable, and gas-efficient smart contracts. My goal is to maximize user experience through efficient code. I'm always eager to learn more and connect with others who share my enthusiasm for blockchain.
+</div>
+
+<hr/>
+
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Hessamedean&theme=tokyonight" alt="GitHub Streak" /></a>
+ <br/>
  <br/>
    <img width=500 src="https://github-readme-stats.vercel.app/api?username=Hessamedean&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
@@ -62,17 +70,8 @@
 
 <br/>
 
-<div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div>
+<h1 align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Oswald&size=35&duration=3500&pause=500&color=2A92C0&background=7F52EF00&center=true&width=500&height=70&lines=Thank+you+for+visiting" alt="Typing SVG" /></a>
+</h1>
 
 <br/>
-
-
-
-  
-## Hi there 👋
-
-I'm Hessamedean. I'm a junior smart contract developer who is learning solidity and is determined to deep dive into the blockchain rabbit hole so I reach my goal which is building secure smart contracts with the mindset of maximizing the user experience. 
-
-
