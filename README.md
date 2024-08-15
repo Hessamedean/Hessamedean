@@ -2,8 +2,40 @@
 
 
 <h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3500&pause=500&color=2A92C0&background=7F52EF00&center=true&width=500&height=70&lines=Hi+There+%F0%9F%91%8B;I'm+Hessamedean;A+Blockchain+Developer;Welcome+To+My+GitHub" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Oswald&size=35&duration=3500&pause=500&color=2A92C0&background=7F52EF00&center=true&width=500&height=70&lines=Hi+There+%F0%9F%91%8B;I'm+Hessamedean;A+Smart+Contract+Developer;Welcome+To+My+GitHub" alt="Typing SVG" /></a>
 </h1>
+<h3 align="center">A Student of cyfrin-updraft</h3>
+
+<br/>
+
+<div align="center">
+ 
+ 🔭 I’m currently working on **a stablecoin**
+ 
+ 🌱 I’m currently learning **uniswapV2, Yul, Smart Contract Security & Auditing**
+
+⚡ Fun fact **I'm a really good cook**
+
+ </div>
+
+<div align="center">
+<a href="https://t.me/Hessamedean">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank" />
+  </a>
+  <a href="hessamedeanag@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://www.linkedin.com/in/hessamedean-aghajanlou-416aa0208/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="hessamedeanag@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
+  </a>
+
+
+
+
+  
 ## Hi there 👋
 
 I'm Hessamedean. I'm a junior smart contract developer who is learning solidity and is determined to deep dive into the blockchain rabbit hole so I reach my goal which is building secure smart contracts with the mindset of maximizing the user experience. 
