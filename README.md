@@ -52,9 +52,11 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Hessamedean&theme=tokyonight&exclude_days=Fri" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Hessamedean&theme=tokyonight&exclude_days=Fri&background=7E0000&stroke=FFD700&ring=FFD700&fire=FFD700&currStreakNum=FFD700&sideNums=FFD700&currStreakLabel=FFD700&sideLabels=FFD700&dates=FFD700&excludeDaysLabel=BE6325" alt="GitHub Streak" /></a>
+ <br/>
+   <img width=390 src="https://github-readme-stats-Hessamedean.vercel.app/api?username=Hessamedean&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+
   <br/>
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hessamedean)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 <br/><br/>
