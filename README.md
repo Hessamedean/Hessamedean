@@ -45,7 +45,29 @@
 
 <br/>
 <hr/>
+</div>
 
+<hr/>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Hessamedean&theme=tokyonight&exclude_days=Fri" alt="GitHub Streak" /></a>
+  <br/>
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hessamedean)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
+<br/><br/>
+
+<hr/>
+
+<br/>
+
+<div align="center">
+<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+</div>
+
+<br/>
 
 
 
@@ -54,4 +76,4 @@
 
 I'm Hessamedean. I'm a junior smart contract developer who is learning solidity and is determined to deep dive into the blockchain rabbit hole so I reach my goal which is building secure smart contracts with the mindset of maximizing the user experience. 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hessamedean)](https://github.com/anuraghazra/github-readme-stats)
+
