@@ -36,10 +36,10 @@
 <br/>
 <div align="center">
     <img src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Foundry-0C9ED5?style=for-the-badge&logo=Foundry&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white"/>
     <img src="https://img.shields.io/badge/OpenZeppelin-4E5EE4?logo=OpenZeppelin&logoColor=fff&style=for-the-badge"/>
     <img src="https://img.shields.io/badge/chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Foundry-0C9ED5?style=for-the-badge&logo=Cloud%20Foundry&logoColor=white"/>
    <br>
 </div>
 
