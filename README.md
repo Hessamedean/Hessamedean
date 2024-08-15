@@ -1,9 +1,8 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Hessamedean.Hessamedean"/>
 
 <h1 align="center">
-  
-    <img src="https://readme-typing-svg.herokuapp.com/?
-      font=Righteos&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There+&+Wellcome+👋;+I'm+Hessamedean;"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?
+font=Righteos&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There+&+Wellcome+👋;+I'm+Hessamedean;"/>
   </h1>
 
 ## Hi there 👋
