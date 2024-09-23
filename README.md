@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Hessamedean.Hessamedean&left_text=My%20Page%20Views"/>
 
 <h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Oswald&size=25&duration=4500&pause=500&color=2A92C0&background=7F52EF00&center=true&width=500&height=70&lines=Welcome+To+My+GitHub;Feel+Free+To+Checkout+Projects;I+Put+The+Kettle+On+while+You're+At+It" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Oswald&size=25&duration=4500&pause=500&color=2A92C0&background=7F52EF00&center=true&width=500&height=70&lines=Welcome+To+My+GitHub;You+Can+Find+My+Projects+Down+Here;Feel+Free+To+Check+Them+Out;I+Put+The+Kettle+On+while+You're+At+It;Let's+Have+A+Chat+About+Smart+Contracts" alt="Typing SVG" /></a>
 </h1>
 <h3 align="center">A Solidity developer Lost In Transaction</h3>
 
