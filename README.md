@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Hessamedean.Hessamedean&left_text=My%20Page%20Views"/>
 
 <h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Oswald&size=35&duration=3500&pause=500&color=2A92C0&background=7F52EF00&center=true&width=500&height=70&lines=Hi+There+%F0%9F%91%8B;I'm+Hessamedean;A+Smart+Contract+Developer;Welcome+To+My+GitHub" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Oswald&size=35&duration=3500&pause=500&color=2A92C0&background=7F52EF00&center=true&width=500&height=70&lines=Looking+For+A+Smart+Contract+Developer?;You+Came+Into+The+Right+place;Please+Feel+Free+To+Checkout+My+Smartc+Contracts;Welcome+To+My+GitHub" alt="Typing SVG" /></a>
 </h1>
 <h3 align="center">A Solidity developer Lost In Transaction</h3>
 
@@ -9,9 +9,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a stablecoin**
+ 🔭 I’m currently working on **A DAO**
  
- 🌱 I’m currently learning **uniswapV2, Yul, Smart Contract Security & Auditing**
+ 🌱 I’m currently learning **UniswapV2, Yul**
 
 ⚡ Fun fact **I'm a really good cook**
 
@@ -47,7 +47,7 @@
 <h2 align="center">📝 About Me 📝</h2>
 <br/>
 <div align="center">
-    Hi there! I'm Hessamedean, a junior smart contract developer with a passion for blockchain technology. I'm currently deep diving into Solidity, aiming to create secure, upgradeable, and gas-efficient smart contracts. My goal is to maximize user experience through efficient code. I'm always eager to learn more and connect with others who share my enthusiasm for blockchain.
+    Hi there! I'm Hessamedean, a junior smart contract developer with a passion for blockchain technology. I'm currently deep-diving into Solidity, aiming to create secure, upgradeable, and gas-efficient smart contracts. My goal is to maximize user experience through efficient code. I'm always eager to learn more and connect with others who share my enthusiasm for blockchain.
 </div>
 
 <hr/>
