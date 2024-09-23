@@ -71,7 +71,7 @@
 <br/>
 
 <h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Oswald&size=35&duration=3500&pause=500&color=2A92C0&background=7F52EF00&center=true&width=500&height=70&lines=Thank+you+for+visiting" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Oswald&size=35&duration=3500&pause=500&color=2A92C0&background=7F52EF00&center=true&width=500&height=70&lines=Thank+you+for+visiting;Are+You+In+For+A+Cup+Of+Tee?" alt="Typing SVG" /></a>
 </h1>
 
 <br/>
